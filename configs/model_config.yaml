@@ -5,7 +5,7 @@
 
 model:
   # Backbone architecture: resnet18 | resnet34 | resnet50 | efficientnet_b0 | efficientnet_b2
-  backbone: resnet34
+  backbone: resnet18
 
   # Number of output classes (0 = genuine, 1 = synthetic)
   num_classes: 2
